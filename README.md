@@ -1,7 +1,8 @@
 ![logo](https://github.com/Saubhagya-2004/Saubhagya-2004/blob/main/1672240629784.jpg)
 <h1 align="center">Hi 👋, I'm Saubhagya-2004</h1>
 <h3 align="center">A passionate software engineer from india</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Saubhagya-2004/Saubhagya-2004/assets/150540311/9ee15cf9-6b94-4a84-ac68-02be6caff88d")
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saubhagya-2004&label=Profile%20views&color=0e75b6&style=flat" alt="saubhagya-2004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mr_saubhagya" target="blank"><img src="https://img.shields.io/twitter/follow/mr_saubhagya?logo=twitter&style=for-the-badge" alt="mr_saubhagya" /></a> </p>
