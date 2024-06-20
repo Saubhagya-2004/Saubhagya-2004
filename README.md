@@ -1,4 +1,4 @@
-![logo](https://github.com/Saubhagya-2004/Saubbhagya-2004/blob/main/1672240629784.jpg)
+![logo](https://github.com/Saubhagya-2004/Saubhagya-2004/blob/main/1672240629784.jpg)
 <h1 align="center">Hi 👋, I'm Saubhagya-2004</h1>
 <h3 align="center">A passionate software engineer from india</h3>
 
