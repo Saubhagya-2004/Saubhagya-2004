@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/saubhagyaBalia3" target="blank"><img src="https://img.shields.io/twitter/follow/saubhagyaBalia3?logo=twitter&style=for-the-badge" alt="saubhagyaBalia3" /></a> </p>
 
-- 🌱 I’m currently learning **java,Html5,css,javascript**
+- 🌱 I’m currently learning **java,Html5,CSS,javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saubhagya-2004/project](https://github.com/Saubhagya-2004/project)
+- 👨‍💻 Gym Project availaible at [https://github.com/Saubhagya-2004/project](https://github.com/Saubhagya-2004/project)
 
 - 📫 How to reach me **saubhagyabaliarsingh2@gmail.com**
 
