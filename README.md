@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saubhagyabaliarsingh2@gmail.com**
 
-- ⚡ Fun fact **I am introvert**
+- ⚡ Fun fact **I am introvert with extrovert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
