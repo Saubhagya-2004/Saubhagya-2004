@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/saubhagyaBalia3" target="blank"><img src="https://img.shields.io/twitter/follow/saubhagyaBalia3?logo=twitter&style=for-the-badge" alt="saubhagyaBalia3" /></a> </p>
 
-- 🌱 I’m currently learning **java,Html5,CSS,javascript**
+- 🌱 I’m currently learning **DSA||MERN**
 
 - 👨‍💻 Gym Project availaible at [https://github.com/Saubhagya-2004/project](https://github.com/Saubhagya-2004/project)
+- 💬 Ask me about DSA IN JAVA ||FONT-END WEB DEV
 
 - 📫 How to reach me **saubhagyabaliarsingh2@gmail.com**
 
