@@ -38,6 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saubhagya-2004&show_icons=true&locale=en" alt="saubhagya-2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saubhagya-2004&" alt="saubhagya-2004" /></p>
-<p align="center">
- <img width="1000" src="https://github.com/Saubhagya-2004/saubhagya-2004/blob/main/github-snake.svg" alt="snake"/>
-</p>
+
