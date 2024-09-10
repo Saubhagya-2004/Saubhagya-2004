@@ -6,6 +6,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=850&duration=1500&pause=1000&lines=A+passionate+Fullstack+web+developer+from+India;" width="auto" height="35"/>
 </p>
 <img align="right" alt="coding" width="450" src="https://github.com/chandan789maity/chandan789maity/blob/main/right.gif?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saubhagya-2004&label=Profile%20views&color=0e75b6&style=flat" alt="tapas20" /> </p>
     
 
 <p align="left"> <a href="https://twitter.com/saubhagyaBalia3" target="blank"><img src="https://img.shields.io/twitter/follow/saubhagyaBalia3?logo=twitter&style=for-the-badge" alt="saubhagyaBalia3" /></a> </p>
