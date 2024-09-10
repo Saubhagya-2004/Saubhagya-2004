@@ -1,7 +1,7 @@
 ![logo](https://github.com/Saubhagya-2004/Saubhagya-2004/blob/main/linkedin.jpg)
 <h1 align="center">Hi 👋, I'm Saubhagya-2004</h1>
 <h3 align="center">A passionate software engineer from india</h3>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 <p align="left left"> <img src="https://komarev.com/ghpvc/?username=saubhagya-2004&label=Profile%20views&color=0e75b6&style=flat" alt="saubhagya-2004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saubhagyaBalia3" target="blank"><img src="https://img.shields.io/twitter/follow/saubhagyaBalia3?logo=twitter&style=for-the-badge" alt="saubhagyaBalia3" /></a> </p>
