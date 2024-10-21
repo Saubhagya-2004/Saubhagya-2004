@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **DSA||MERN**
 
 - 👨‍💻 Gym Project availaible at [https://github.com/Saubhagya-2004/project](https://github.com/Saubhagya-2004/project)
-- 👨‍💻 Spotify clone availaible [https://saubhagya-2004.github.io/Spotify-clone/](https://saubhagya-2004.github.io/Spotify-clone/)
+- 👨‍💻 Spotify clone availaible at [https://saubhagya-2004.github.io/Spotify-clone/](https://saubhagya-2004.github.io/Spotify-clone/)
 - 💬 Ask me about DSA IN JAVA ||FONT-END WEB DEV
 
 - 📫 How to reach me **saubhagyabaliarsingh2@gmail.com**
