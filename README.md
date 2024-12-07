@@ -15,7 +15,7 @@
 
 - 👨‍💻 Gym Project availaible at [https://github.com/Saubhagya-2004/project](https://github.com/Saubhagya-2004/project)
 - 👨‍💻 Spotify clone availaible at [https://saubhagya-2004.github.io/Spotify-clone/](https://saubhagya-2004.github.io/Spotify-clone/)
-- 💬 Ask me about DSA IN JAVA ||FONT-END WEB DEV
+- 💬 Ask me about DSA IN JAVA ||FRONT-END WEB DEV
 
 - 📫 How to reach me **saubhagyabaliarsingh2@gmail.com**
 
