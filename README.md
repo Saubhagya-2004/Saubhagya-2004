@@ -16,7 +16,7 @@
 - 👨‍💻 Gym Project availaible at [https://github.com/Saubhagya-2004/project](https://github.com/Saubhagya-2004/project)
 - 👨‍💻 Spotify clone availaible at [https://saubhagya-2004.github.io/Spotify-clone/](https://saubhagya-2004.github.io/Spotify-clone/)
 - 👨‍💻 Hospital landing page availaible at [ https://saubhagya-2004.github.io/Hospital-landing-page/]( https://saubhagya-2004.github.io/Hospital-landing-page/)
-- 💬 Ask me about DSA IN JAVA ||FRONT-END WEB DEV
+- 💬 Ask me about DSA IN JAVA ||FULL-STACK WEB DEV
 
 - 📫 How to reach me **saubhagyabaliarsingh2@gmail.com**
 
