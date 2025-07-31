@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saubhagyaBalia3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saubhagyaBalia3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saubhagya baliarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saubhagya baliarsingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saubhagya-baliarsingh-0136071b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saubhagya baliarsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_saubhagya_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_saubhagya_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saubhagya_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saubhagya_04" height="30" width="40" /></a>
 </p>
