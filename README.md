@@ -73,18 +73,4 @@
   </a> 
 </p>
 
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=Saubhagya-2004&show_icons=true&locale=en" 
-    alt="Saubhagya-2004" 
-  />
-</p>
 
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Saubhagya-2004" 
-    alt="saubhagya-2004" 
-  />
-</p>
