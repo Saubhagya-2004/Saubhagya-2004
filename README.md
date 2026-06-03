@@ -1,4 +1,4 @@
-![logo](https://github.com/chandan789maity/chandan789maity/blob/main/head1.png).
+``![logo](https://github.com/chandan789maity/chandan789maity/blob/main/head1.png).``
 <h1 align="center">Hi 👋, I'm Saubhagya Baliarsingh</h1>
 <h3 align="center">
 A Passionate Full Stack MERN & React Native Developer From India 🚀
