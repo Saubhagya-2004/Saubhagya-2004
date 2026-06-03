@@ -5,7 +5,7 @@ A Passionate Full Stack MERN & React Native Developer From India 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;JavaScript+%7C+TypeScript+%7C+Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=100&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;JavaScript+%7C+TypeScript+%7C+Next.js" />
 </p>
 
 ---
