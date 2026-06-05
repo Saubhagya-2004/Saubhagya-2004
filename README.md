@@ -1,19 +1,23 @@
-
 <!-- ![logo](https://github.com/chandan789maity/chandan789maity/blob/main/head1.png) -->
+
 <h1 align="center">Hi 👋, I'm Saubhagya Baliarsingh</h1>
+
 <h3 align="center">
 A Passionate Full Stack MERN & React Native Developer From India 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=90&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;JavaScript+%7C+TypeScript+%7C+Next.js+%7C+NestJS" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saubhagya-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;JavaScript+%7C+TypeScript+%7C+Next.js+%7C+NestJS"
+    alt="Typing SVG"
+  />
+</p>
 
+---
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -173,4 +177,4 @@ const saubhagya = {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:8A2BE2&section=footer"/>
-</p>
+</p> 
