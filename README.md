@@ -9,7 +9,11 @@ A Passionate Full Stack MERN & React Native Developer From India 🚀
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=90&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;JavaScript+%7C+TypeScript+%7C+Next.js+%7C+NestJS" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saubhagya-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
